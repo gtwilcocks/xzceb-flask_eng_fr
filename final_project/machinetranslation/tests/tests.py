@@ -6,7 +6,7 @@ import unittest
 from translator import english_to_french, french_to_english
 
 class TestEnglishToFrench(unittest.TestCase):
-    """Tests the english_to_french function in the translator module.
+    """Tests the english_to_french function in the translator module. 
     """
     def test1(self):
         """Tests the english_to_french function in the translator module.
